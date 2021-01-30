@@ -1,24 +1,16 @@
-# weather-app-vue
+# Weather
+![alt text](https://github.com/Nabeel-Siddiqui/simpleWeatherVueApp/blob/master/public/weather.png)
+<br>
+Weather app made in Vue.js 
 
-## Project setup
-```
-yarn install
-```
+## Technologies
+* Vue.js
+* HTML & CSS
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Installation
+* Fork or clone this repo ```git clone https://github.com/Nabeel-Siddiqui/simpleWeatherVueApp```
+* ```cd``` to ```simpleWeatherVueApp```
+* run ```yarn serve``` 
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Contact
+Created by [Nabeel Siddiqui](https://www.https://nabeelsiddiqui.netlify.app/) - feel free to contact me!
